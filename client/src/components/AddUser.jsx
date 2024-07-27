@@ -35,7 +35,7 @@ export default function AddUser() {
               name="name"
               type="text"
               onChange={(e) => setValues({ ...values, name: e.target.value })}
-              placeholder="Name"
+              placeholder="Input your name"
             />
           </div>
 
