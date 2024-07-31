@@ -33,7 +33,7 @@ export default function EditUser() {
   };
   return (
     <>
-      <div>Edit User</div>
+      <div>Edit Pengguna</div>
 
       <div className="mt-5 w-[50%] m-auto">
         <form className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4" onSubmit={handleSubmit}>
